@@ -134,7 +134,7 @@ This graph compares the actual house prices with the predicted values generated 
 
 # 👨‍💻 Author
 
-**Tankala Harshavardhan**
+**Madhavsai Doddi**
 
 Data Science Student
 
