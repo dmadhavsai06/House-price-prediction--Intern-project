@@ -56,7 +56,7 @@ This project predicts house prices using Machine Learning algorithms. It include
 
 The histogram below shows the distribution of house prices available in the dataset.
 
-![Price Distribution](price_prediction.png)
+![Price Distribution](price prediction.png)
 
 ---
 
